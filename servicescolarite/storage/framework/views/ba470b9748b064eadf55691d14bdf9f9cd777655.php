@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/webroot/ENIGA/servicescolarite/resources/views/adminlayoutscolarite/header.blade.php ENDPATH**/ ?>

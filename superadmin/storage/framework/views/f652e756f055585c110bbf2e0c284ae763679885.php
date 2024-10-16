@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/webroot/ENIGA/superadmin/resources/views/adminlayoutenseignant/header.blade.php ENDPATH**/ ?>
