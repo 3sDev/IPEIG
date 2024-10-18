@@ -27,14 +27,12 @@
         "psr-4": {
             "App\\": "app/",
             "Database\\Factories\\": "database/factories/",
-            "Database\\Seeders\\": "database/seeders/",
-            "superadmin\\": "issat/superadmin/" 
+            "Database\\Seeders\\": "database/seeders/"
         }
     },
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/"
-         
         }
     },
     "scripts": {
@@ -65,4 +63,3 @@
     "minimum-stability": "dev",
     "prefer-stable": true
 }
-
