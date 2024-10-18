@@ -76,7 +76,7 @@
                                 </div>
                                 <div class="form-group col-md-6">
                                     <center>
-                                        <img src={{ asset('https://eniga.tn/university/public/upload/departements/signature/'.$dep->signature_chef_dep) }} style="width:200px !important; height: 160px;">
+                                        <img src={{ asset('https://ipeig.tn/university/public/upload/departements/signature/'.$dep->signature_chef_dep) }} style="width:200px !important; height: 160px;">
                                     </center>
                                 </div>
                             </div>

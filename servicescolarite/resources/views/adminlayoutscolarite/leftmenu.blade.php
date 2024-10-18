@@ -2,7 +2,7 @@
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
     <a href="{{ url('dashboards') }}" class="brand-link">
-      <img src="https://eniga.tn/university/public/upload/variables/AdminLTELogo.jpg" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
+      <img src="https://ipeig.tn/university/public/upload/variables/AdminLTELogo.jpg" alt="AdminLTE Logo" class="brand-image img-circle elevation-3" style="opacity: .8">
       <span class="brand-text font-weight-light">Service Scolarité</span>
     </a>
 
@@ -44,7 +44,7 @@
             </a>
             <ul class="nav nav-treeview">
               <li class="nav-item">
-                <a class="nav-link {{ Request::is('https://eniga.tn/inscription/public/') ? 'active':''; }}" href="{{ url('https://eniga.tn/inscription/public/') }}" target="_blank">
+                <a class="nav-link {{ Request::is('https://ipeig.tn/inscription/public/') ? 'active':''; }}" href="{{ url('https://ipeig.tn/inscription/public/') }}" target="_blank">
                   <i class="far fa-circle nav-icon"></i>
                   <p>Ajouter étudiant</p>
                 </a>

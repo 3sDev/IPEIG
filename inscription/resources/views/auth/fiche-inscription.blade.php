@@ -52,7 +52,7 @@
                         
                     <div class="row">
                         <div class="col-xs-3">
-                            <img src={{ asset('https://eniga.tn/university/public/upload/students/'.$inscrit->profile_image) }} class="profile_image" >
+                            <img src={{ asset('https://ipeig.tn/university/public/upload/students/'.$inscrit->profile_image) }} class="profile_image" >
                         </div>
                         <div class="col-xs-6" style="text-align: center">
                             {{-- <img src="{{ URL::asset('image/logo-isamgf.png') }}" width="20%" alt=""> --}}

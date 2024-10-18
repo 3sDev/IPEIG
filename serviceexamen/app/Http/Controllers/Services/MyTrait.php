@@ -11,7 +11,7 @@ trait MyTrait
     function getUrlServer()
     {
 
-        return 'https://eniga.tn/university/public/api';
+        return 'https://ipeig.tn/university/public/api';
 
     }
 }

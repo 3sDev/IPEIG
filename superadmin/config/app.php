@@ -54,7 +54,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'https://eniga.tn'),
+    'url' => env('APP_URL', 'https://ipeig.tn'),
 
     'asset_url' => env('ASSET_URL'),
 

@@ -11,7 +11,7 @@ trait MyTrait
     function getUrlServer()
     {
         //return 'http://127.0.0.1:8080/api';
-		return 'https://eniga.tn/university/public/api';
+		return 'https://ipeig.tn/university/public/api';
     }
 }
 

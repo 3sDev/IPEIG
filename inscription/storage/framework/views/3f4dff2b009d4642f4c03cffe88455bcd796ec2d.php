@@ -52,7 +52,7 @@
                         
                     <div class="row">
                         <div class="col-xs-3">
-                            <img src=<?php echo e(asset('https://eniga.tn/university/public/upload/students/'.$inscrit->profile_image)); ?> class="profile_image" >
+                            <img src=<?php echo e(asset('https://ipeig.tn/university/public/upload/students/'.$inscrit->profile_image)); ?> class="profile_image" >
                         </div>
                         <div class="col-xs-6" style="text-align: center">
                             

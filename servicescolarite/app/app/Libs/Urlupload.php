@@ -12,7 +12,7 @@ class Urlupload
     public function getLinks()
     {
         //return ['https://smartschools.tn/university/public/upload'];
-        return ['https://eniga.tn/university/public/upload'];
+        return ['https://ipeig.tn/university/public/upload'];
     }
 
 }
