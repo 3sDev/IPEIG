@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/webroot/IPEIG/superadmin/resources/views/adminlayoutenseignant/header.blade.php ENDPATH**/ ?>

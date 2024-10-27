@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=Poppins:wght@300;400;500;600;700&family=Varela+Round&display=swap"
+        rel="stylesheet">
+    <title>IPEIG </title>
+</head>
+
+<body>
+    <header>
+        <div class="logo">
+            <img src="img/issatGafsa.png" alt="">
+            <h1>Smart IPEIG</h1>
+        </div>
+
+        <section class="menu">
+            <ul class="menu-list">
+                <li>
+                    <a href="index.html">Accueil</a>
+                </li>
+                <li>
+                    <a href="condition.html">Conditions d'utilisation</a>
+                </li>
+                <li>
+                    <a class="active" href="contact.html">Contact</a>
+                </li>
+            </ul>
+
+            <button>
+                <i class="fas fa-times"></i>
+                <i class="fas fa-bars"></i>
+            </button>
+        </section>
+    </header>
+
+
+    <script>
+        var menu = document.querySelector('.menu');
+        var menuBtn = document.querySelector('.menu button');
+        menuBtn.addEventListener('click', () => {
+            menu.classList.toggle('opened')
+        })
+
+    </script>
+
+</body>
+
+<footer>
+    <div class="copy-right-sec">
+        <a href="https://www.sss.com.tn/"><img src="img/3slogo.png" alt=""></a>
+        Copyright ©2024 All rights reserved | By 3S - Software & Security Solutions
+    </div>
+</footer>
+
+</html>
